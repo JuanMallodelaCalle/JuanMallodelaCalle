@@ -9,7 +9,7 @@ Building applied AI systems with a focus on **machine learning**, **multimodal d
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Mallo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmallo/)
-[![GitHub](https://img.shields.io/badge/GitHub-JuanMallodelaCalle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanMallodelaCalle)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-DREAM%20Dataset-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/JuanMallo)
 [![LREC 2026](https://img.shields.io/badge/LREC%202026-First--Author%20Paper-6A5ACD?style=for-the-badge)](https://lrec.elra.info/lrec2026-main-728)
 
 </div>
@@ -23,8 +23,6 @@ Building applied AI systems with a focus on **machine learning**, **multimodal d
 🤖 My work combines research-oriented AI with practical engineering: multimodal dataset generation, LLM/VLM evaluation pipelines, synthetic image generation, explainable AI, computer vision, geospatial analytics and applied machine learning.
 
 🤝 I am currently looking for opportunities in **Machine Learning Engineering**, **Data Science**, **Data Engineering**, **AI Engineering** and **Research Engineering**.
-
-♟️ Coding, creating and sometimes playing chess
 
 ---
 
@@ -82,9 +80,14 @@ Warsaw University of Technology
 
 ---
 
+## A bit beyond work
+
+♟️ Coding, creating and sometimes playing chess
 <div align="center">
 
-### Open to AI / ML / Data opportunities
+[![Chess.com](https://img.shields.io/badge/Chess.com-JuanMallo-81B64C?style=flat-square)](https://www.chess.com/member/juanmallo)
+
+### Open to AI / ML / Data opportunities - and always building something.
 
 Machine Learning · Data Science · Data Engineering · Generative AI · Research Engineering
 
