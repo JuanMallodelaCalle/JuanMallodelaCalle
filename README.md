@@ -48,11 +48,11 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 | | |
 | :--- | :--- |
-| 📄 **Paper** | [LREC 2026 Proceedings](https://lrec.elra.info/lrec2026-main-728) |
-| 📊 **Scale** | 1,000 dialogues · 2,000 personas and portraits · 6,950 scene images |
-| 🤗 **Dataset** | [JuanMallo/dream-75pct](https://huggingface.co/datasets/JuanMallo/dream-75pct): a 75% public subset |
-| ⚙️ **Pipeline** | [personalized-ai-visual-summaries](https://github.com/JuanMallodelaCalle/personalized-ai-visual-summaries): generation and evaluation pipeline (LLMs, VLMs, text-to-image, human and VLM evaluation) |
-| 🧬 **Explorer** | [dream-persona-explorer](https://github.com/JuanMallodelaCalle/dream-persona-explorer): Streamlit dashboard to filter, map and quality-check the 2,000 personas |
+| 📄&nbsp;**Paper** | [LREC 2026 Proceedings](https://lrec.elra.info/lrec2026-main-728) |
+| 📊&nbsp;**Scale** | 1,000 dialogues · 2,000 personas and portraits · 6,950 scene images |
+| 🤗&nbsp;**Dataset** | [JuanMallo/dream-75pct](https://huggingface.co/datasets/JuanMallo/dream-75pct): a 75% public subset |
+| ⚙️&nbsp;**Pipeline** | [personalized-ai-visual-summaries](https://github.com/JuanMallodelaCalle/personalized-ai-visual-summaries): generation and evaluation pipeline (LLMs, VLMs, text-to-image, human and VLM evaluation) |
+| 🧬&nbsp;**Explorer** | [dream-persona-explorer](https://github.com/JuanMallodelaCalle/dream-persona-explorer): Streamlit dashboard to filter, map and quality-check the 2,000 personas |
 
 <details>
 <summary><b>See the persona explorer in action</b></summary>
@@ -129,58 +129,28 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 <table>
 <tr>
-  <td><b>Languages</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-    <img src="https://img.shields.io/badge/R-161B22?style=for-the-badge&logo=r&logoColor=276DC3" alt="R">
-    <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
-    <img src="https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge" alt="MATLAB">
-    <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  </td>
+  <td nowrap><b>Languages</b></td>
+  <td><img src="https://cdn.simpleicons.org/python/3776AB" height="20" align="center" alt="">&nbsp;Python &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/r/276DC3" height="20" align="center" alt="">&nbsp;R &nbsp;&nbsp;&nbsp; <img src="assets/tools/db.svg" height="20" align="center" alt="">&nbsp;SQL &nbsp;&nbsp;&nbsp; <img src="assets/tools/wave.svg" height="20" align="center" alt="">&nbsp;MATLAB &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" align="center" alt="">&nbsp;TypeScript</td>
 </tr>
 <tr>
-  <td><b>Machine learning</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
-    <img src="https://img.shields.io/badge/TensorFlow-161B22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
-    <img src="https://img.shields.io/badge/XGBoost-161B22?style=for-the-badge" alt="XGBoost">
-  </td>
+  <td nowrap><b>Machine learning</b></td>
+  <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" align="center" alt="">&nbsp;PyTorch &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" align="center" alt="">&nbsp;TensorFlow &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="20" align="center" alt="">&nbsp;scikit-learn &nbsp;&nbsp;&nbsp; <img src="assets/tools/tree.svg" height="20" align="center" alt="">&nbsp;XGBoost</td>
 </tr>
 <tr>
-  <td><b>GenAI &amp; LLMs</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
-    <img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-    <img src="https://img.shields.io/badge/LangGraph-161B22?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
-    <img src="https://img.shields.io/badge/Ollama-161B22?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-    <img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  </td>
+  <td nowrap><b>GenAI &amp; LLMs</b></td>
+  <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" align="center" alt="">&nbsp;Hugging Face &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" height="20" align="center" alt="">&nbsp;LangChain &nbsp;&nbsp;&nbsp; <img src="assets/tools/graph.svg" height="20" align="center" alt="">&nbsp;LangGraph &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="20" align="center" alt="">&nbsp;Ollama &nbsp;&nbsp;&nbsp; <img src="assets/tools/spark.svg" height="20" align="center" alt="">&nbsp;OpenAI API</td>
 </tr>
 <tr>
-  <td><b>Data &amp; BI</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-    <img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy">
-    <img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter">
-    <img src="https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
-    <img src="https://img.shields.io/badge/Power%20BI-161B22?style=for-the-badge" alt="Power BI">
-  </td>
+  <td nowrap><b>Data &amp; BI</b></td>
+  <td><img src="https://cdn.simpleicons.org/pandas/150458/E70488" height="20" align="center" alt="">&nbsp;pandas &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/numpy/4D77CF" height="20" align="center" alt="">&nbsp;NumPy &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/jupyter/F37626" height="20" align="center" alt="">&nbsp;Jupyter &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="20" align="center" alt="">&nbsp;Streamlit &nbsp;&nbsp;&nbsp; <img src="assets/tools/bars.svg" height="20" align="center" alt="">&nbsp;Power BI</td>
 </tr>
 <tr>
-  <td><b>Web &amp; 3D</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Three.js-161B22?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-    <img src="https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
-  </td>
+  <td nowrap><b>Web &amp; 3D</b></td>
+  <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="20" align="center" alt="">&nbsp;React &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/threedotjs/000000/FFFFFF" height="20" align="center" alt="">&nbsp;Three.js &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/vite/646CFF" height="20" align="center" alt="">&nbsp;Vite</td>
 </tr>
 <tr>
-  <td><b>Tools</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </td>
+  <td nowrap><b>Tools</b></td>
+  <td><img src="https://cdn.simpleicons.org/git/F05032" height="20" align="center" alt="">&nbsp;Git &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" height="20" align="center" alt="">&nbsp;GitHub</td>
 </tr>
 </table>
 
