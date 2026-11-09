@@ -17,6 +17,8 @@
 
 ## 🏠 &nbsp;Welcome to JuanOS
 
+<img src="assets/divider-1.svg" width="100%" alt="">
+
 <a href="https://juanos.pages.dev">
   <img src="miniatura-hello-world-b.jpg" alt="JuanOS: a 3D room with the caption Hello, world. Welcome to my portfolio" width="100%">
 </a>
@@ -31,8 +33,17 @@ Built with TypeScript, React, Vite and Three.js, with Claude Code as a developme
 
 ## 🔬 &nbsp;Research: DREAM
 
+<img src="assets/divider-2.svg" width="100%" alt="">
+
 **DREAM: A Multicultural Multimodal Dataset Linking Dialogues and Realistic Image Sequences**<br>
 Juan Mallo de la Calle, Marcos Estecha-Garitagoitia, Ricardo Córdoba, Luis Fernando D'Haro · *LREC 2026*
+
+<a href="https://github.com/JuanMallodelaCalle/personalized-ai-visual-summaries">
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/dream-mobile.svg">
+  <img src="assets/dream.svg" width="100%" alt="Storyboard of DREAM in four sketched panels: 01 persona, structured and narrative; 02 dialogue, persona-grounded turns; 03 portraits, one per speaker; 04 scenes, visually salient turns. 1,000 dialogues, 2,000 personas and portraits, 6,950 scene images.">
+</picture>
+</a>
 
 <p align="center">
   <img src="https://github.com/JuanMallodelaCalle/personalized-ai-visual-summaries/raw/HEAD/docs/persona_chat_760_B.png" width="15%" alt="Synthetic DREAM portrait 1">
@@ -64,47 +75,22 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 ## 🧪 &nbsp;Projects
 
-<a href="https://github.com/JuanMallodelaCalle/agentic-portfolio-rag-langgraph">
-<picture>
-  <source media="(max-width: 700px)" srcset="assets/card-agentic-portfolio-rag-langgraph-mobile.svg">
-  <img src="assets/card-agentic-portfolio-rag-langgraph.svg" width="100%" alt="agentic-portfolio-rag-langgraph: Agentic RAG over my own portfolio. A LangGraph workflow routes each question to grounded Q&A, project picks or a job-fit summary, all running locally on Ollama.">
-</picture>
-</a>
+<img src="assets/divider-3.svg" width="100%" alt="">
 
-<a href="https://github.com/JuanMallodelaCalle/xai-covid-cxr-tabular-image">
-<picture>
-  <source media="(max-width: 700px)" srcset="assets/card-xai-covid-cxr-tabular-image-mobile.svg">
-  <img src="assets/card-xai-covid-cxr-tabular-image.svg" width="100%" alt="xai-covid-cxr-tabular-image: Bias-aware explainable AI on COVID-19 chest X-rays and clinical metadata: Random Forest, XGBoost and a CNN, inspected with SHAP, LIME and Grad-CAM.">
-</picture>
-</a>
+<p align="center">
+  <a href="https://github.com/JuanMallodelaCalle/agentic-portfolio-rag-langgraph"><img src="assets/flyer-agentic-portfolio-rag-langgraph.svg" width="48%" alt="Agentic RAG flyer styled as a metro map: a LangGraph line from Your question through Classify intent and Retrieve, branching to Grounded Q&A, Project picks or Job-fit summary, all meeting at Answer plus sources. Runs locally on Ollama."></a>
+  <a href="https://github.com/JuanMallodelaCalle/xai-covid-cxr-tabular-image"><img src="assets/flyer-xai-covid-cxr-tabular-image.svg" width="48%" alt="Explainable AI flyer styled as a chest X-ray on a hospital lightbox, with a Grad-CAM heatmap and an XAI report: Random Forest, XGBoost and CNN explained with SHAP, LIME and Grad-CAM. Not a diagnostic tool."></a>
+</p>
 
-<a href="https://github.com/JuanMallodelaCalle/we-never-stop-fearing">
-<picture>
-  <source media="(max-width: 700px)" srcset="assets/card-we-never-stop-fearing-mobile.svg">
-  <img src="assets/card-we-never-stop-fearing.svg" width="100%" alt="we-never-stop-fearing: A Power BI poster for the Fabric Community Halloween DataViz Contest 2026. 91% of the people surveyed never stop fearing; the lines of childhood and adult fears cross.">
-</picture>
-</a>
+<p align="center">
+  <a href="https://github.com/JuanMallodelaCalle/we-never-stop-fearing"><img src="assets/flyer-we-never-stop-fearing.svg" width="48%" alt="We Never Stop Fearing flyer styled as a Halloween party invitation: a Power BI data story where 91% of people still name a fear as adults; fear of the dark falls from 46% to 13% while fear of the future rises from 10% to 40%."></a>
+  <a href="https://github.com/JuanMallodelaCalle/sf-taxi-ev-mobility-analysis"><img src="assets/flyer-sf-taxi-ev-mobility-analysis.svg" width="48%" alt="SF Taxi to EV flyer styled as a yellow San Francisco cab: GPS traces from 466 cabs turned into a plan for an electric fleet, with charging windows and energy demand on the taximeter."></a>
+</p>
 
-<a href="https://github.com/JuanMallodelaCalle/sf-taxi-ev-mobility-analysis">
-<picture>
-  <source media="(max-width: 700px)" srcset="assets/card-sf-taxi-ev-mobility-analysis-mobile.svg">
-  <img src="assets/card-sf-taxi-ev-mobility-analysis.svg" width="100%" alt="sf-taxi-ev-mobility-analysis: GPS traces from 466 San Francisco taxis turned into stop hotspots, charging windows and energy demand for an electric fleet.">
-</picture>
-</a>
-
-<a href="https://github.com/JuanMallodelaCalle/polygon-ga-image-evolution">
-<picture>
-  <source media="(max-width: 700px)" srcset="assets/card-polygon-ga-image-evolution-mobile.svg">
-  <img src="assets/card-polygon-ga-image-evolution.svg" width="100%" alt="polygon-ga-image-evolution: A genetic algorithm that evolves images out of translucent polygons, with Lab-space Delta E fitness and SSIM, LPIPS and FID for analysis.">
-</picture>
-</a>
-
-<a href="https://github.com/JuanMallodelaCalle/RLCms">
-<picture>
-  <source media="(max-width: 700px)" srcset="assets/card-RLCms-mobile.svg">
-  <img src="assets/card-RLCms.svg" width="100%" alt="RLCms: My bachelor's thesis, a chess agent that learns from scratch through self-play with MCTS and CNNs, trained against Minimax and Stockfish 16.1.">
-</picture>
-</a>
+<p align="center">
+  <a href="https://github.com/JuanMallodelaCalle/polygon-ga-image-evolution"><img src="assets/flyer-polygon-ga-image-evolution.svg" width="48%" alt="Polygon Evolution flyer made of low-poly triangles: a genetic algorithm paints a face out of translucent polygons over thousands of generations, scored with CIE76 Delta E, SSIM, LPIPS and FID."></a>
+  <a href="https://github.com/JuanMallodelaCalle/RLCms"><img src="assets/flyer-RLCms.svg" width="48%" alt="Self-Play Chess flyer on a chessboard: my bachelor's thesis, an RL agent that learns chess from scratch with MCTS and CNNs, trained against Minimax and Stockfish 16.1."></a>
+</p>
 
 <details>
 <summary><b>All public repositories</b></summary>
@@ -127,6 +113,8 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 ## 🧰 &nbsp;Toolbox
 
+<img src="assets/divider-4.svg" width="100%" alt="">
+
 <table width="100%">
 <tr>
   <td nowrap><b>Languages</b></td>
@@ -138,7 +126,7 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 </tr>
 <tr>
   <td nowrap><b>GenAI</b></td>
-  <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" align="center" alt="">&nbsp;Hugging Face &nbsp; <img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" height="20" align="center" alt="">&nbsp;LangChain &nbsp; <img src="assets/tools/graph.svg" height="20" align="center" alt="">&nbsp;LangGraph &nbsp; <img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="20" align="center" alt="">&nbsp;Ollama &nbsp; <img src="assets/tools/spark.svg" height="20" align="center" alt="">&nbsp;OpenAI</td>
+  <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" align="center" alt="">&nbsp;Hugging Face &nbsp; <img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" height="20" align="center" alt="">&nbsp;LangChain &nbsp; <img src="assets/tools/graph.svg" height="20" align="center" alt="">&nbsp;LangGraph &nbsp; <img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="20" align="center" alt="">&nbsp;Ollama &nbsp; <img src="assets/tools/spark.svg" height="20" align="center" alt="">&nbsp;OpenAI &nbsp; <img src="https://cdn.simpleicons.org/claude/D97757" height="20" align="center" alt="">&nbsp;Claude Code</td>
 </tr>
 <tr>
   <td nowrap><b>Data &amp; BI</b></td>
@@ -158,6 +146,8 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 ## 🎓 &nbsp;Education
 
+<img src="assets/divider-5.svg" width="100%" alt="">
+
 - **MSc in Signal Theory and Communications**, Signal Processing & ML for Big Data · Universidad Politécnica de Madrid
 - **BSc in Data Engineering and Systems** · Universidad Politécnica de Madrid
 - **Erasmus exchange** · Warsaw University of Technology
@@ -169,6 +159,6 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
   <source media="(prefers-color-scheme: dark) and (max-width: 700px)" srcset="assets/footer-dark-mobile.svg">
   <source media="(max-width: 700px)" srcset="assets/footer-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <img src="assets/footer-light.svg" width="100%" alt="juan@juanos exit. gg, thanks for stopping by. Off the clock: side projects, JuanOS and a lot of chess. Under a starry night sky with a green and purple aurora, giant stone chess pieces wrapped in ivy, a king, a queen, a rook, pawns and a fallen knight's head, rest on a grassy plain. Open chess.com/member/juanmallo.">
+  <img src="assets/footer-light.svg" width="100%" alt="juan@juanos exit. gg, thanks for stopping by. Off the clock: side projects, JuanOS and a lot of chess. Under a starry night sky with a green and purple aurora, giant stone chess pieces wrapped in ivy, a king, a queen and pawns, stand as dark silhouettes on a grassy plain. Open chess.com/member/juanmallo.">
 </picture>
 </a>
