@@ -127,30 +127,30 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 ## 🧰 &nbsp;Toolbox
 
-<table>
+<table width="100%">
 <tr>
   <td nowrap><b>Languages</b></td>
-  <td><img src="https://cdn.simpleicons.org/python/3776AB" height="20" align="center" alt="">&nbsp;Python &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/r/276DC3" height="20" align="center" alt="">&nbsp;R &nbsp;&nbsp;&nbsp; <img src="assets/tools/db.svg" height="20" align="center" alt="">&nbsp;SQL &nbsp;&nbsp;&nbsp; <img src="assets/tools/wave.svg" height="20" align="center" alt="">&nbsp;MATLAB &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" align="center" alt="">&nbsp;TypeScript</td>
+  <td><img src="https://cdn.simpleicons.org/python/3776AB" height="20" align="center" alt="">&nbsp;Python &nbsp; <img src="https://cdn.simpleicons.org/r/276DC3" height="20" align="center" alt="">&nbsp;R &nbsp; <img src="assets/tools/db.svg" height="20" align="center" alt="">&nbsp;SQL &nbsp; <img src="assets/tools/wave.svg" height="20" align="center" alt="">&nbsp;MATLAB &nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" height="20" align="center" alt="">&nbsp;TypeScript</td>
 </tr>
 <tr>
-  <td nowrap><b>Machine learning</b></td>
-  <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" align="center" alt="">&nbsp;PyTorch &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" align="center" alt="">&nbsp;TensorFlow &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="20" align="center" alt="">&nbsp;scikit-learn &nbsp;&nbsp;&nbsp; <img src="assets/tools/tree.svg" height="20" align="center" alt="">&nbsp;XGBoost</td>
+  <td nowrap><b>ML</b></td>
+  <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="20" align="center" alt="">&nbsp;PyTorch &nbsp; <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="20" align="center" alt="">&nbsp;TensorFlow &nbsp; <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="20" align="center" alt="">&nbsp;scikit-learn &nbsp; <img src="assets/tools/tree.svg" height="20" align="center" alt="">&nbsp;XGBoost</td>
 </tr>
 <tr>
-  <td nowrap><b>GenAI &amp; LLMs</b></td>
-  <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" align="center" alt="">&nbsp;Hugging Face &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" height="20" align="center" alt="">&nbsp;LangChain &nbsp;&nbsp;&nbsp; <img src="assets/tools/graph.svg" height="20" align="center" alt="">&nbsp;LangGraph &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="20" align="center" alt="">&nbsp;Ollama &nbsp;&nbsp;&nbsp; <img src="assets/tools/spark.svg" height="20" align="center" alt="">&nbsp;OpenAI API</td>
+  <td nowrap><b>GenAI</b></td>
+  <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="20" align="center" alt="">&nbsp;Hugging Face &nbsp; <img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" height="20" align="center" alt="">&nbsp;LangChain &nbsp; <img src="assets/tools/graph.svg" height="20" align="center" alt="">&nbsp;LangGraph &nbsp; <img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="20" align="center" alt="">&nbsp;Ollama &nbsp; <img src="assets/tools/spark.svg" height="20" align="center" alt="">&nbsp;OpenAI</td>
 </tr>
 <tr>
   <td nowrap><b>Data &amp; BI</b></td>
-  <td><img src="https://cdn.simpleicons.org/pandas/150458/E70488" height="20" align="center" alt="">&nbsp;pandas &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/numpy/4D77CF" height="20" align="center" alt="">&nbsp;NumPy &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/jupyter/F37626" height="20" align="center" alt="">&nbsp;Jupyter &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="20" align="center" alt="">&nbsp;Streamlit &nbsp;&nbsp;&nbsp; <img src="assets/tools/bars.svg" height="20" align="center" alt="">&nbsp;Power BI</td>
+  <td><img src="https://cdn.simpleicons.org/pandas/150458/E70488" height="20" align="center" alt="">&nbsp;pandas &nbsp; <img src="https://cdn.simpleicons.org/numpy/4D77CF" height="20" align="center" alt="">&nbsp;NumPy &nbsp; <img src="https://cdn.simpleicons.org/jupyter/F37626" height="20" align="center" alt="">&nbsp;Jupyter &nbsp; <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="20" align="center" alt="">&nbsp;Streamlit &nbsp; <img src="assets/tools/bars.svg" height="20" align="center" alt="">&nbsp;Power BI</td>
 </tr>
 <tr>
   <td nowrap><b>Web &amp; 3D</b></td>
-  <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="20" align="center" alt="">&nbsp;React &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/threedotjs/000000/FFFFFF" height="20" align="center" alt="">&nbsp;Three.js &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/vite/646CFF" height="20" align="center" alt="">&nbsp;Vite</td>
+  <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="20" align="center" alt="">&nbsp;React &nbsp; <img src="https://cdn.simpleicons.org/threedotjs/000000/FFFFFF" height="20" align="center" alt="">&nbsp;Three.js &nbsp; <img src="https://cdn.simpleicons.org/vite/646CFF" height="20" align="center" alt="">&nbsp;Vite</td>
 </tr>
 <tr>
   <td nowrap><b>Tools</b></td>
-  <td><img src="https://cdn.simpleicons.org/git/F05032" height="20" align="center" alt="">&nbsp;Git &nbsp;&nbsp;&nbsp; <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" height="20" align="center" alt="">&nbsp;GitHub</td>
+  <td><img src="https://cdn.simpleicons.org/git/F05032" height="20" align="center" alt="">&nbsp;Git &nbsp; <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" height="20" align="center" alt="">&nbsp;GitHub</td>
 </tr>
 </table>
 
