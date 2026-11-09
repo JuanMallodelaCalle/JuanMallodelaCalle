@@ -6,10 +6,11 @@
 </a>
 
 <p align="center">
-  <a href="https://juanos.pages.dev"><b>JuanOS</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/juanmallo/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="https://huggingface.co/JuanMallo"><b>Hugging Face</b></a> &nbsp;·&nbsp;
-  <a href="https://lrec.elra.info/lrec2026-main-728"><b>LREC 2026</b></a>
+  <a href="https://juanos.pages.dev"><img src="https://img.shields.io/badge/JuanOS-0B0F0C?style=for-the-badge&logo=gnometerminal&logoColor=4AF626" alt="JuanOS"></a>
+  <a href="https://www.linkedin.com/in/juanmallo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/JuanMallo"><img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"></a>
+  <a href="https://lrec.elra.info/lrec2026-main-728"><img src="https://img.shields.io/badge/LREC%202026%20paper-6A5ACD?style=for-the-badge&logo=googlescholar&logoColor=white" alt="LREC 2026 paper"></a>
+  <a href="https://www.chess.com/member/juanmallo"><img src="https://img.shields.io/badge/Chess.com-161B22?style=for-the-badge&logo=chessdotcom&logoColor=81B64C" alt="Chess.com"></a>
 </p>
 
 <br>
@@ -126,24 +127,62 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 ## 🧰 &nbsp;Toolbox
 
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,r,matlab,git,github,ts,react,threejs,vite&perline=12" alt="Python, PyTorch, TensorFlow, scikit-learn, R, MATLAB, Git, GitHub, TypeScript, React, Three.js, Vite"></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-242938?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Hugging%20Face-242938?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/LangChain-242938?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/LangGraph-242938?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
-  <img src="https://img.shields.io/badge/Ollama-242938?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/OpenAI-242938?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/XGBoost-242938?style=for-the-badge" alt="XGBoost">
-  <img src="https://img.shields.io/badge/pandas-242938?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy">
-  <img src="https://img.shields.io/badge/Jupyter-242938?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Streamlit-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Power%20BI-242938?style=for-the-badge" alt="Power BI">
-</p>
+<table>
+<tr>
+  <td><b>Languages</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+    <img src="https://img.shields.io/badge/R-161B22?style=for-the-badge&logo=r&logoColor=276DC3" alt="R">
+    <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
+    <img src="https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge" alt="MATLAB">
+    <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  </td>
+</tr>
+<tr>
+  <td><b>Machine learning</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+    <img src="https://img.shields.io/badge/TensorFlow-161B22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn">
+    <img src="https://img.shields.io/badge/XGBoost-161B22?style=for-the-badge" alt="XGBoost">
+  </td>
+</tr>
+<tr>
+  <td><b>GenAI &amp; LLMs</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+    <img src="https://img.shields.io/badge/LangGraph-161B22?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph">
+    <img src="https://img.shields.io/badge/Ollama-161B22?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+    <img src="https://img.shields.io/badge/OpenAI-161B22?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  </td>
+</tr>
+<tr>
+  <td><b>Data &amp; BI</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/pandas-161B22?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
+    <img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy">
+    <img src="https://img.shields.io/badge/Jupyter-161B22?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter">
+    <img src="https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit">
+    <img src="https://img.shields.io/badge/Power%20BI-161B22?style=for-the-badge" alt="Power BI">
+  </td>
+</tr>
+<tr>
+  <td><b>Web &amp; 3D</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Three.js-161B22?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+    <img src="https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
+  </td>
+</tr>
+<tr>
+  <td><b>Tools</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </td>
+</tr>
+</table>
 
 <br>
 
@@ -163,4 +202,3 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
   <img src="assets/footer-light.svg" width="100%" alt="juan@juanos exit. gg, thanks for stopping by. Off the clock: side projects, JuanOS and a lot of chess. Under a starry night sky with a green and purple aurora, giant stone chess pieces wrapped in ivy, a king, a queen, a rook, pawns and a fallen knight's head, rest on a grassy plain. Open chess.com/member/juanmallo.">
 </picture>
 </a>
-
