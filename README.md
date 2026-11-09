@@ -120,7 +120,11 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 </tr>
 <tr>
   <td nowrap><b>GenAI</b></td>
-  <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="18" align="center" alt="">&nbsp;Hugging Face <img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" height="18" align="center" alt="">&nbsp;LangChain <img src="assets/tools/graph.svg" height="18" align="center" alt="">&nbsp;LangGraph <img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="18" align="center" alt="">&nbsp;Ollama <img src="assets/tools/spark.svg" height="18" align="center" alt="">&nbsp;OpenAI <img src="https://cdn.simpleicons.org/claude/D97757" height="18" align="center" alt="">&nbsp;Claude Code</td>
+  <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="18" align="center" alt="">&nbsp;Hugging Face <img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" height="18" align="center" alt="">&nbsp;LangChain <img src="assets/tools/graph.svg" height="18" align="center" alt="">&nbsp;LangGraph <img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="18" align="center" alt="">&nbsp;Ollama</td>
+</tr>
+<tr>
+  <td nowrap><b>AI APIs</b></td>
+  <td><img src="assets/tools/spark.svg" height="18" align="center" alt="">&nbsp;OpenAI <img src="https://cdn.simpleicons.org/claude/D97757" height="18" align="center" alt="">&nbsp;Claude Code</td>
 </tr>
 <tr>
   <td nowrap><b>Data &amp; BI</b></td>
