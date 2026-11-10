@@ -109,44 +109,31 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 <img src="assets/divider-4.svg" width="100%" alt="">
 
-<table width="100%">
-<tr>
-  <td nowrap><b>Languages</b></td>
-  <td><img src="https://cdn.simpleicons.org/python/3776AB" height="18" align="center" alt="">&nbsp;Python <img src="https://cdn.simpleicons.org/r/276DC3" height="18" align="center" alt="">&nbsp;R <img src="assets/tools/db.svg" height="18" align="center" alt="">&nbsp;SQL <img src="assets/tools/wave.svg" height="18" align="center" alt="">&nbsp;MATLAB <img src="https://cdn.simpleicons.org/typescript/3178C6" height="18" align="center" alt="">&nbsp;TypeScript</td>
-</tr>
-<tr>
-  <td nowrap><b>ML</b></td>
-  <td><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="18" align="center" alt="">&nbsp;PyTorch <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="18" align="center" alt="">&nbsp;TensorFlow <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="18" align="center" alt="">&nbsp;scikit-learn <img src="assets/tools/tree.svg" height="18" align="center" alt="">&nbsp;XGBoost</td>
-</tr>
-<tr>
-  <td nowrap><b>GenAI</b></td>
-  <td><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="18" align="center" alt="">&nbsp;Hugging Face <img src="https://cdn.simpleicons.org/langchain/1C3C3C/FFFFFF" height="18" align="center" alt="">&nbsp;LangChain <img src="assets/tools/graph.svg" height="18" align="center" alt="">&nbsp;LangGraph <img src="https://cdn.simpleicons.org/ollama/000000/FFFFFF" height="18" align="center" alt="">&nbsp;Ollama</td>
-</tr>
-<tr>
-  <td nowrap><b>AI APIs</b></td>
-  <td><img src="assets/tools/spark.svg" height="18" align="center" alt="">&nbsp;OpenAI <img src="https://cdn.simpleicons.org/claude/D97757" height="18" align="center" alt="">&nbsp;Claude Code</td>
-</tr>
-<tr>
-  <td nowrap><b>Data &amp; BI</b></td>
-  <td><img src="https://cdn.simpleicons.org/pandas/150458/E70488" height="18" align="center" alt="">&nbsp;pandas <img src="https://cdn.simpleicons.org/numpy/4D77CF" height="18" align="center" alt="">&nbsp;NumPy <img src="https://cdn.simpleicons.org/jupyter/F37626" height="18" align="center" alt="">&nbsp;Jupyter <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="18" align="center" alt="">&nbsp;Streamlit <img src="assets/tools/bars.svg" height="18" align="center" alt="">&nbsp;Power BI</td>
-</tr>
-<tr>
-  <td nowrap><b>Web &amp; 3D</b></td>
-  <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="18" align="center" alt="">&nbsp;React <img src="https://cdn.simpleicons.org/threedotjs/000000/FFFFFF" height="18" align="center" alt="">&nbsp;Three.js <img src="https://cdn.simpleicons.org/vite/646CFF" height="18" align="center" alt="">&nbsp;Vite</td>
-</tr>
-<tr>
-  <td nowrap><b>Tools</b></td>
-  <td><img src="https://cdn.simpleicons.org/git/F05032" height="18" align="center" alt="">&nbsp;Git <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" height="18" align="center" alt="">&nbsp;GitHub</td>
-</tr>
-</table>
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/toolbox-mobile.svg">
+  <img src="assets/toolbox.svg" width="100%" alt="Toolbox mapped as constellations in a night sky, each category a constellation and each tool a star. Languages: Python, R, SQL, MATLAB, TypeScript. Machine learning: PyTorch, TensorFlow, scikit-learn, XGBoost. GenAI and LLMs: Hugging Face, LangChain, LangGraph, Ollama, OpenAI API, Claude Code. Data and BI: pandas, NumPy, Jupyter, Streamlit, Power BI. Web and 3D: React, Three.js, Vite. Tools: Git, GitHub.">
+</picture>
 
 <br>
 
-## 🎓 &nbsp;Education
+## 🎓 &nbsp;Education &amp; Certifications
 
 <img src="assets/divider-5.svg" width="100%" alt="">
 
-- **MSc in Signal Theory and Communications**, Signal Processing & ML for Big Data · Universidad Politécnica de Madrid
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/JuanMallo-1687/660CBB3A7BBFB72F?sharingId=EB04C8A1ABEF3F77">
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/cert-dp700-mobile.svg">
+  <img src="assets/cert-dp700.svg" width="100%" alt="Credential card: Microsoft Certified, Fabric Data Engineer Associate. Exam DP-700, November 2026. Lakehouse, Warehouse, PySpark, SQL, KQL, Pipelines. Verify on Microsoft Learn.">
+</picture>
+</a>
+
+- **Micro-credential in Responsible AI &amp; Business Innovation** · Universidad Carlos III de Madrid · 2025 · 2 ECTS<br>
+  <sub>AI value creation, GenAI, RAG and agentic AI, business cases, data governance, GDPR and the EU AI Act, cloud AI deployment</sub>
+- <sub><b>Training</b> · Anthropic Academy: Claude 101 · Introduction to Agent Skills</sub>
+
+<br>
+
+- **MSc in Signal Theory and Communications**, Signal Processing &amp; ML for Big Data · Universidad Politécnica de Madrid
 - **BSc in Data Engineering and Systems** · Universidad Politécnica de Madrid
 - **Erasmus exchange** · Warsaw University of Technology
 
