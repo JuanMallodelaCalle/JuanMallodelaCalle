@@ -105,20 +105,9 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 <br>
 
-## 🧰 &nbsp;Toolbox
-
-<img src="assets/divider-4.svg" width="100%" alt="">
-
-<picture>
-  <source media="(max-width: 700px)" srcset="assets/toolbox-mobile.svg">
-  <img src="assets/toolbox.svg" width="100%" alt="Toolbox mapped as constellations in a night sky, each category a constellation and each tool a star. Languages: Python, R, SQL, MATLAB, TypeScript. Machine learning: PyTorch, TensorFlow, scikit-learn, XGBoost. GenAI and LLMs: Hugging Face, LangChain, LangGraph, Ollama, OpenAI API, Claude Code. Data and BI: pandas, NumPy, Jupyter, Streamlit, Power BI. Web and 3D: React, Three.js, Vite. Tools: Git, GitHub.">
-</picture>
-
-<br>
-
 ## 🎓 &nbsp;Education &amp; Certifications
 
-<img src="assets/divider-5.svg" width="100%" alt="">
+<img src="assets/divider-4.svg" width="100%" alt="">
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/JuanMallo-1687/660CBB3A7BBFB72F?sharingId=EB04C8A1ABEF3F77">
 <picture>
@@ -127,15 +116,25 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 </picture>
 </a>
 
-- **Micro-credential in Responsible AI &amp; Business Innovation** · Universidad Carlos III de Madrid · 2025 · 2 ECTS<br>
-  <sub>AI value creation, GenAI, RAG and agentic AI, business cases, data governance, GDPR and the EU AI Act, cloud AI deployment</sub>
-- <sub><b>Training</b> · Anthropic Academy: Claude 101 · Introduction to Agent Skills</sub>
+| | |
+| :--- | :--- |
+| 🏅&nbsp;**Certification** | Microsoft Certified: Fabric Data Engineer Associate (DP-700) · 2026 |
+| 🧩&nbsp;**Micro&#8209;credential** | Responsible AI &amp; Business Innovation · UC3M · 2025 |
+| 📚&nbsp;**Training** | Anthropic Academy: Claude 101 · Introduction to Agent Skills |
+| 🎓&nbsp;**MSc** | Signal Processing &amp; Machine Learning for Big Data · UPM |
+| 🎓&nbsp;**BSc** | Data Engineering and Systems · UPM |
+| 🌍&nbsp;**Erasmus** | Warsaw University of Technology |
 
 <br>
 
-- **MSc in Signal Theory and Communications**, Signal Processing &amp; ML for Big Data · Universidad Politécnica de Madrid
-- **BSc in Data Engineering and Systems** · Universidad Politécnica de Madrid
-- **Erasmus exchange** · Warsaw University of Technology
+## 🧰 &nbsp;Toolbox
+
+<img src="assets/divider-5.svg" width="100%" alt="">
+
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/toolbox-mobile.svg">
+  <img src="assets/toolbox.svg" width="100%" alt="Toolbox mapped as constellations in a night sky, each category a constellation and each tool a star. Languages: Python, R, SQL, MATLAB, TypeScript. Machine learning: PyTorch, TensorFlow, scikit-learn, XGBoost. GenAI and LLMs: Hugging Face, LangChain, LangGraph, Ollama, OpenAI API, Claude Code. Data and BI: pandas, NumPy, Jupyter, Streamlit, Power BI. Web and 3D: React, Three.js, Vite. Tools: Git, GitHub.">
+</picture>
 
 <br>
 
