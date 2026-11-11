@@ -20,7 +20,7 @@
 <img src="assets/divider-1.svg" width="100%" alt="">
 
 <a href="https://juanos.pages.dev">
-  <img src="miniatura-hello-world-b.jpg" alt="JuanOS: a 3D room with the caption Hello, world. Welcome to my portfolio" width="100%">
+  <img src="assets/juanos-preview.jpg" alt="JuanOS: a 3D room with the caption Hello, world. Welcome to my portfolio" width="100%">
 </a>
 
 My portfolio is a room you can walk into. **JuanOS** is a 3D bedroom whose light follows your local time. Sit at the desk and the computer boots a small OS about me: my research, a travel gallery, a chess game against three versions of me and a terminal that hides a secret. 14 achievements, plus one hidden.
@@ -97,6 +97,7 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 | [agentic-portfolio-rag-langgraph](https://github.com/JuanMallodelaCalle/agentic-portfolio-rag-langgraph) | Local agentic RAG assistant over my portfolio: grounded Q&A, project picks and job-fit summaries. | LangGraph, LangChain, Ollama, Chroma |
 | [xai-covid-cxr-tabular-image](https://github.com/JuanMallodelaCalle/xai-covid-cxr-tabular-image) | Bias-aware XAI on COVID-19 chest X-rays and clinical metadata. | Random Forest, XGBoost, CNN, SHAP, LIME, Grad-CAM |
 | [we-never-stop-fearing](https://github.com/JuanMallodelaCalle/we-never-stop-fearing) | One-page A4 poster for the Fabric Community Halloween DataViz Contest 2026, WCAG 2.2 AA. | Power BI, DAX |
+| [dp700-pack](https://github.com/JuanMallodelaCalle/dp700-pack) | Holographic booster pack celebrating my DP-700 certification: tear it open and pull five foil cards. [Live](https://dp700-pack.pages.dev). | HTML/CSS/JS, Web Animations API, Playwright, ffmpeg |
 | [sf-taxi-ev-mobility-analysis](https://github.com/JuanMallodelaCalle/sf-taxi-ev-mobility-analysis) | Electric-fleet planning from San Francisco taxi GPS traces: stops, charging windows, energy demand. | pandas, Folium |
 | [polygon-ga-image-evolution](https://github.com/JuanMallodelaCalle/polygon-ga-image-evolution) | Genetic algorithm that evolves images from translucent polygons, with perceptual metrics. | NumPy, CIE76 ΔE*, SSIM, LPIPS, FID |
 | [RLCms](https://github.com/JuanMallodelaCalle/RLCms) | Bachelor's thesis: self-play RL chess agent, built on Arjan Groen's open-source RL Chess. Supervised by Rubén San Segundo Hernández. | python-chess, MCTS, CNNs, Stockfish 16.1 |
@@ -116,6 +117,15 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 </picture>
 </a>
 
+<a href="https://dp700-pack.pages.dev">
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/dp700-pack-mobile.webp">
+  <img src="assets/dp700-pack.webp" width="100%" alt="DP-700 Card Pack: I turned the exam into a booster pack. Tear it open to get five holographic cards, the Microsoft Certified badge as the ultra rare and one creature card per part of the exam. Built with HTML, CSS and JavaScript, CSS holo foil, Web Animations and Playwright. Open the pack at dp700-pack.pages.dev.">
+</picture>
+</a>
+
+<p align="center"><sub>To celebrate the certification, I turned the exam into a holographic booster pack · <a href="https://dp700-pack.pages.dev">open the pack</a> · <a href="https://github.com/JuanMallodelaCalle/dp700-pack">source code</a></sub></p>
+
 | | |
 | :--- | :--- |
 | 🏅&nbsp;**Certification** | Microsoft Certified: Fabric Data Engineer Associate (DP-700) · 2026 |
@@ -133,7 +143,7 @@ Long, persona-driven conversations are hard to review. DREAM turns them into sto
 
 <picture>
   <source media="(max-width: 700px)" srcset="assets/toolbox-mobile.svg">
-  <img src="assets/toolbox.svg" width="100%" alt="Toolbox mapped as constellations in a night sky, each category a constellation and each tool a star. Languages: Python, R, SQL, MATLAB, TypeScript. Machine learning: PyTorch, TensorFlow, scikit-learn, XGBoost. GenAI and LLMs: Hugging Face, LangChain, LangGraph, Ollama, OpenAI API, Claude Code. Data and BI: pandas, NumPy, Jupyter, Streamlit, Power BI. Web and 3D: React, Three.js, Vite. Tools: Git, GitHub.">
+  <img src="assets/toolbox.svg" width="100%" alt="Toolbox mapped as constellations in a night sky, each category a constellation and each tool a star. Languages: Python, R, SQL, MATLAB, TypeScript. Machine learning: PyTorch, TensorFlow, scikit-learn, XGBoost. GenAI and LLMs: Hugging Face, LangChain, LangGraph, Ollama, OpenAI API, Claude Code. Data and BI: pandas, NumPy, Jupyter, Streamlit, Power BI, Microsoft Fabric. Web and 3D: React, Three.js, Vite. Tools: Git, GitHub.">
 </picture>
 
 <br>
